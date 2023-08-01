@@ -1,5 +1,7 @@
-Bem-vindo ao meu GitHub! 👋
-Sobre mim
+# Bem-vindo ao meu GitHub! 👋
+
+## Sobre mim
+
 🎓 Último módulo do curso técnico de Desenvolvimento de Sistemas do SENAI.
 
 💻 Conhecimentos em:
