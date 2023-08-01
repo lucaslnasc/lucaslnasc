@@ -12,3 +12,12 @@
 - Metologias Ágeis
 - Eletronica Básica
 - Sistemas Operacionais: (Básico: debian | Intermedíario: Windows)
+
+📚 Aprendendo:
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- IoT(Internet das Coisas)
+- Git
