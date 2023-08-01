@@ -7,10 +7,10 @@ Sobre mim
 Lógica de Programação
 Java (POO | CRUD)
 Banco de Dados (MySQL)
-Git
 Metodologias Ágeis
 Eletrônica Básica
-Sistema Operacional (Básico: Ubuntu e Debian | Intermediário / Avançado: Windows)
+Sistema Operacional (Básico: Debian | Intermediário / Avançado: Windows)
+
 📚 Aprendendo sobre:
 
 HTML
