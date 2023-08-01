@@ -1,16 +1,20 @@
-### Hi there 👋
+Bem-vindo ao meu GitHub! 👋
+Sobre mim
+🎓 Último módulo do curso técnico de Desenvolvimento de Sistemas do SENAI.
 
-<!--
-**lucaslnasc/lucaslnasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Conhecimentos em:
 
-Here are some ideas to get you started:
+Lógica de Programação
+Java (POO | CRUD)
+Banco de Dados (MySQL)
+Git
+Metodologias Ágeis
+Eletrônica Básica
+Sistema Operacional (Básico: Ubuntu e Debian | Intermediário / Avançado: Windows)
+📚 Aprendendo sobre:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML
+CSS
+JavaScript
+PHP
+IoT (Internet das Coisas)
