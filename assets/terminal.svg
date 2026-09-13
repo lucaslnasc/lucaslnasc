@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Lucas Nascimento</title>
+  <desc id="desc">Terminal com o nome Lucas em ASCII e a descrição: desenvolvimento full-stack, APIs e automações. Espírito Santo, Brasil.</desc>
+  <rect x="1" y="1" width="958" height="298" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <path d="M15 1h930a14 14 0 0 1 14 14v29H1V15A14 14 0 0 1 15 1Z" fill="#161b22"/>
+  <path d="M1 44h958" stroke="#30363d"/>
+  <circle cx="25" cy="23" r="5" fill="#ff5f57"/>
+  <circle cx="44" cy="23" r="5" fill="#febc2e"/>
+  <circle cx="63" cy="23" r="5" fill="#28c840"/>
+  <g font-family="Consolas, 'Liberation Mono', monospace">
+    <text x="480" y="28" text-anchor="middle" fill="#8b949e" font-size="13">lucas@github: ~ / profile</text>
+    <text x="36" y="80" fill="#7ee787" font-size="15">$ ./hello.sh</text>
+    <g fill="#a5d6ff" font-size="18" font-weight="bold">
+<text x="36" y="113">$</text>
+<text x="36" y="135">$</text>
+<text x="36" y="157">$</text>
+<text x="36" y="179">$</text>
+<text x="36" y="201">$</text>
+<text x="36" y="223">$</text>
+<text x="36" y="245">$</text>
+<text x="53" y="245">$</text>
+<text x="70" y="245">$</text>
+<text x="87" y="245">$</text>
+<text x="104" y="245">$</text>
+<text x="142" y="113">$</text>
+<text x="210" y="113">$</text>
+<text x="142" y="135">$</text>
+<text x="210" y="135">$</text>
+<text x="142" y="157">$</text>
+<text x="210" y="157">$</text>
+<text x="142" y="179">$</text>
+<text x="210" y="179">$</text>
+<text x="142" y="201">$</text>
+<text x="210" y="201">$</text>
+<text x="142" y="223">$</text>
+<text x="210" y="223">$</text>
+<text x="159" y="245">$</text>
+<text x="176" y="245">$</text>
+<text x="193" y="245">$</text>
+<text x="265" y="113">$</text>
+<text x="282" y="113">$</text>
+<text x="299" y="113">$</text>
+<text x="316" y="113">$</text>
+<text x="248" y="135">$</text>
+<text x="248" y="157">$</text>
+<text x="248" y="179">$</text>
+<text x="248" y="201">$</text>
+<text x="248" y="223">$</text>
+<text x="265" y="245">$</text>
+<text x="282" y="245">$</text>
+<text x="299" y="245">$</text>
+<text x="316" y="245">$</text>
+<text x="371" y="113">$</text>
+<text x="388" y="113">$</text>
+<text x="405" y="113">$</text>
+<text x="354" y="135">$</text>
+<text x="422" y="135">$</text>
+<text x="354" y="157">$</text>
+<text x="422" y="157">$</text>
+<text x="354" y="179">$</text>
+<text x="371" y="179">$</text>
+<text x="388" y="179">$</text>
+<text x="405" y="179">$</text>
+<text x="422" y="179">$</text>
+<text x="354" y="201">$</text>
+<text x="422" y="201">$</text>
+<text x="354" y="223">$</text>
+<text x="422" y="223">$</text>
+<text x="354" y="245">$</text>
+<text x="422" y="245">$</text>
+<text x="477" y="113">$</text>
+<text x="494" y="113">$</text>
+<text x="511" y="113">$</text>
+<text x="528" y="113">$</text>
+<text x="460" y="135">$</text>
+<text x="460" y="157">$</text>
+<text x="477" y="179">$</text>
+<text x="494" y="179">$</text>
+<text x="511" y="179">$</text>
+<text x="528" y="201">$</text>
+<text x="528" y="223">$</text>
+<text x="460" y="245">$</text>
+<text x="477" y="245">$</text>
+<text x="494" y="245">$</text>
+<text x="511" y="245">$</text>
+</g>
+    <path d="M623 94v152" stroke="#30363d"/>
+    <text x="651" y="119" fill="#e6edf3" font-size="21" font-weight="bold">Lucas Nascimento</text>
+    <text x="651" y="155" fill="#a5d6ff" font-size="16">desenvolvimento full-stack</text>
+    <text x="651" y="181" fill="#a5d6ff" font-size="16">APIs &amp; automações</text>
+    <text x="651" y="224" fill="#8b949e" font-size="14">Espírito Santo, Brasil</text>
+    <text x="36" y="279" fill="#8b949e" font-size="12">@lucaslnasc</text>
+    <text x="924" y="279" text-anchor="end" fill="#7ee787" font-size="12">● learning by building</text>
+  </g>
+</svg>
