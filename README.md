@@ -1,78 +1,93 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Lucas Nascimento — desenvolvimento full-stack, APIs e automações" />
+</p>
 
-###
+<h2><code>$ whoami</code></h2>
 
-<p align="left">Hi, I'm Lucas Nascimento! 👋<br><br>💻 Aspiring Full-Stack Developer<br>📍 From Espírito Santo, Brazil<br><br>Passionate about turning ideas into code. Currently mastering N8N & Angular. Let's build something amazing together</p>
+<p>Sou <strong>Lucas Nascimento</strong>, do Espírito Santo, Brasil. Desenvolvo projetos para aprender na prática, conectando interfaces, APIs e automações.</p>
 
-###
+<pre>
+foco        → desenvolvimento full-stack
+estudando   → IA e Playwright
+desde       → 2022, transformando ideias em código
+objetivo    → evoluir como desenvolvedor e contribuir com open source
+</pre>
 
-<h2 align="left">About me</h2>
+<h2><code>$ cat stack.md</code></h2>
 
-###
+<p><strong>Interfaces &amp; mobile</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,flutter,dart&amp;theme=dark" height="42" alt="TypeScript, JavaScript, Angular, React, Next.js, Flutter e Dart" />
+</p>
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning N8N & Angular<br>🎯 Goals: Become a Full-Stack Developer and contribute to open source<br>🎲 Fun fact: tech enthusiast since childhood</p>
+<p><strong>Backend</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,go&amp;theme=dark" height="42" alt="Java, Spring, Node.js e Go" />
+</p>
 
-###
+<p><strong>Bancos de dados</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase&amp;theme=dark" height="42" alt="PostgreSQL e Supabase" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="42" width="42" alt="SQL Server" title="SQL Server" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/azuresqldatabase/azuresqldatabase-original.svg" height="42" width="42" alt="Azure SQL" title="Azure SQL" />
+</p>
 
-<h2 align="left">I code with</h2>
+<p><strong>Cloud &amp; DevOps</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel&amp;theme=dark" height="42" alt="AWS, Docker e Vercel" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/azuredevops/azuredevops-original.svg" height="42" width="42" alt="Azure DevOps" title="Azure DevOps" />
+</p>
 
-###
+<p><strong>Ferramentas, testes &amp; automação</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,cypress&amp;theme=dark" height="42" alt="Git, Postman e Cypress" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="38" width="38" alt="n8n" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-</div>
+<details>
+  <summary>Outras tecnologias que exploro</summary>
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,arduino&amp;theme=dark" height="42" alt="Tailwind CSS, Bootstrap e Arduino" />
+</details>
 
-###
+<h2><code>$ ls projects/</code></h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslnasc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaslnasc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaslnasc&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<h3><a href="https://github.com/lucaslnasc/API-Watcher">01 / API Watcher</a></h3>
+<p>Projeto de estudo para monitorar disponibilidade e latência de APIs, com verificações periódicas, eventos e cache.</p>
+<p><code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Kafka</code> <code>Redis</code></p>
 
-###
+<h3><a href="https://github.com/lucaslnasc/NexTI-API">02 / NexTI API</a></h3>
+<p>API para gerenciar chamados, interações e histórico de atendimento, com integração a automações via webhooks.</p>
+<p><code>TypeScript</code> <code>Node.js</code> <code>Fastify</code> <code>Supabase</code> <code>n8n</code></p>
 
-<h2 align="left">📬 Contacts</h2>
+<h3><a href="https://github.com/lucaslnasc/task-flow">03 / TaskFlow</a></h3>
+<p>Gerenciador de tarefas em Flutter, com backend local em Dart para autenticação e organização das tarefas.</p>
+<p><code>Flutter</code> <code>Dart</code> <code>shelf</code></p>
 
-###
+<p><a href="https://github.com/lucaslnasc?tab=repositories">Explorar todos os repositórios →</a></p>
 
-<div align="left">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<h2><code>$ ./contributions.sh</code></h2>
+
+<p align="center">
+  <a href="https://github.com/lucaslnasc?tab=overview">
+    <img src="https://ghchart.rshah.org/39d353/lucaslnasc" width="100%" alt="Calendário de contribuições de lucaslnasc no GitHub" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="mailto:lucaslnascimento090@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+</p>
+<p align="center"><a href="https://github.com/lucaslnasc?tab=overview">Ver atividade no GitHub</a></p>
 
-###
+<h2><code>$ cat contact.txt</code></h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/lucas-nascimento-6592a4261/">LinkedIn</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:lucaslnascimento090@gmail.com">E-mail</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/lucaslnasc">GitHub</a>
+</p>
+
+<hr />
+<p align="center"><samp>Aprendendo, construindo e melhorando um projeto de cada vez.</samp></p>
